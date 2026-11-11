@@ -1,0 +1,9 @@
+{
+  "host": "turoncraft.play.hosting",
+  "port": 20810,
+  "username": "TuronAFK",
+  "version": "1.21.1",
+  "authPassword": "",
+  "reconnectDelaySeconds": 15,
+  "antiAfkIntervalSeconds": 20
+}
